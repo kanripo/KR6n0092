@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:13.900874
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:28
 #+TITLE: 大乘法界無差別論疏領要鈔科
 #+PROPERTY: CBETA_ID X46n0786
 #+PROPERTY: ID KR6n0092
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 46, No. 786
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0092_X_001-0678a> 
 #+PROPERTY: JUAN 1
-No.786¶
-
- 法界無差別論疏領要科文¶
+No. 786¶
+法界無差別論疏領要科文¶
 光嚴無際大師　普觀　錄¶
 ¶
 
